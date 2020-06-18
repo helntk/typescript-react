@@ -1,0 +1,52 @@
+//     <HeaderSpace>
+//     <Container>
+//     <HeaderElement main={false}>Cadastro</HeaderElement>
+
+// <Form onSubmit={submitForm}>
+//     <Form.Field>
+//       <label>Nome</label>
+//       <input name='name' onChange={(e)=>handleInputChange(e)} placeholder='Insira seu nome' />
+//     </Form.Field>
+//     <Form.Field>
+//       <label>Email</label>
+//       <input name='email' type='email' onChange={(e)=>handleInputChange(e)} placeholder='Insira seu Email' />
+//     </Form.Field>
+
+//     <Form.Field>
+//       <label>Senha</label>
+//       <input name='password'type='password' onChange={(e)=>handleInputChange(e)} placeholder='Insira sua senha' />
+//     </Form.Field>
+//     <Form.Field>
+//       <label>CPF</label>
+//       <input name='cpf' onChange={(e)=>handleInputChange(e)} placeholder='Insira seu CPF' />
+//     </Form.Field>
+//     <Form.Field>
+//       <label>CEP</label>
+//       <input name='endereco.cep'  onChange={(e)=>handleInputChange(e)} type='number' placeholder='Insira seu CEP' />
+//     </Form.Field>
+
+//     <Form.Field>
+//       <label>Cidade</label>
+//       <input name='endereco.cidade' value={user.endereco.cidade}  onChange={(e)=>handleInputChange(e)} placeholder='Insira sua cidade' />
+//     </Form.Field>
+
+//     <Form.Field>
+//       <label>Bairro</label>
+//       <input name='endereco.bairro'value={user.endereco.bairro}   onChange={(e)=>handleInputChange(e)} placeholder='Insira seu bairro' />
+//     </Form.Field>
+
+//     <Form.Field>
+//       <label>Rua</label>
+//       <input name='endereco.rua' value={user.endereco.rua}  onChange={(e)=>handleInputChange(e)} placeholder='Insira sua Rua' />
+
+//     </Form.Field>
+
+//      <Form.Field>
+//       <label>Numero</label>
+//       <input name='endereco.numero' type='number'   onChange={(e)=>handleInputChange(e)} placeholder='Insira seu numero' />
+//     </Form.Field>
+
+//     <Button type='submit'  color='green'>Confirmar</Button>
+//   </Form>
+//     </Container>
+//     </HeaderSpace>

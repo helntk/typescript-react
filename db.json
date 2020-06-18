@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "name": "Helcio",
+      "password": "461999he",
+      "email": "helcio47_sp@hotmail.com",
+      "cpf": "888328238",
+      "endereco": {
+        "cep": "08820290",
+        "cidade": "Mogi das Cruzes",
+        "bairro": "Cézar de Souza",
+        "numero": "150",
+        "rua": "Avenida Nellusco Lourenço Boratto"
+      },
+      "id": 1
+    }
+  ]
+}
